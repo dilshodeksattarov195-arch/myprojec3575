@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterselete",
+        "uuid": 26497900,
+        "checksum": "fz1wlo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
